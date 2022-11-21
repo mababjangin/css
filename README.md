@@ -1,4 +1,3 @@
-# css
 @charset "utf-8";
 #pre_wrapper{position: relative;display: flex;flex-direction: column;overflow: hidden;}
 
